@@ -14,3 +14,5 @@ It is strongly recommended that you ship SPIRV-Cross and DXIL dependencies along
 For compiling to DXBC, d3dcompiler_47 is shipped with Windows. Other platforms require vkd3d-utils.
 
 This library is under the zlib license, see LICENSE.txt for details.
+
+(This is a fork for maintaining custom builds as needed.)
